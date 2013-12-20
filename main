@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC>
+<head>
+<link rel="stylesheet" type="text/css" href="main.css" />
+<title>AFSE</title>
+<style type="text/css">
+body,td,th {
+color: #000000;
+}
+
+body {
+	background-color: #FAEBD7;
+}
+</style>
+	</head>
+	<body>
+		<div id="header">
+			<h1>AFSE</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="">BALh</a></li>
+					<li><a href="">BALh</a></li>
+					<li><a href="">BALh</a></li>
+					<li><a href="">BALh</a></li>
+					<li><a href="">BALh</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+			<div id="box1">
+			  <p>BALh</p>
+			 
+			  <p></p>
+             </div>
+			<div class="article column1">
+				<p>BALh</p>
+			</div>
+			<div class="article column2">
+				<p>BALh</p>
+			</div>
+			<div class="article column3">
+				<p>BALh</p>
+			</div>
+		</div>
+		<div id="footer">
+			<p>BALh</p>
+		</div>
+	</body>
+</html>
